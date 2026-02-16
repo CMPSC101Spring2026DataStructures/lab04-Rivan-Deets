@@ -71,7 +71,7 @@ for round_num in range(1, rounds + 1):
 console.print("\n[bold underline]Game Over![/bold underline]")
 console.print(f"[cyan]Your score: {user_score}[/cyan]")
 console.print(f"[magenta]Computer score: {computer_score}[/magenta]")
-# Announce overall winner
+# Announce overall 
 if user_score > computer_score:
 	console.print("[bold green]Congratulations, you win the game![/bold green]")
 elif user_score < computer_score:

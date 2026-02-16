@@ -11,26 +11,26 @@ Please answer the following questions after you have completed the programming l
 
 Your Response:
 
-TODO
+- breaking code into functions keeps it more organized and cleaner looking so its not all over the place
 
 
 2. Describe how you validated user input in your version of the Rock, Paper, Scissors game. Why is input validation important?
 
 Your Response:
 
-TODO
+- the same way the spagghetti code had the input was the same way I had in the main
 
 3. How did you use comments and docstrings in your code? Give an example of a helpful comment or docstring you wrote.
 
 Your Response:
 
-TODO
+- i had added comments that were what the lines i added did and the most helpful comments are the ones i used to lable what each part does
 
 4. Explain how the computer's move is generated in your program. What Python features did you use to accomplish this?
 
 Your Response:
 
-TODO
+- 
 
 5. What was the most challenging part of refactoring the spaghetti code into a more structured program? How did you overcome this challenge?
 
