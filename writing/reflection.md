@@ -36,7 +36,7 @@ Your Response:
 
 Your Response:
 
-TODO
+- some code didnt seem to work as well as how it was in the spaggehhtti code and some things needed to be restructured into a better way.
 
 ## Ethical Reflection Questions
 
