@@ -1,7 +1,7 @@
 # Reflection: Rock, Paper, Scissors Lab
 
-Name: Add Your Name Here
-Date: Add The Date Here
+Name: Rivan
+Date: 2/13/26
 
 Please answer the following questions after you have completed the programming lab. Write your answers in complete sentences and provide thoughtful responses.
 
@@ -44,7 +44,7 @@ Your Response:
 
 Your Response:
 
-TODO
+its important to write code thats easy to read so 1 you can look back at it and understand what it does 2 so other people can use the parts of your code without getting confused. its a responsibilliy that 
 
 2. Consider the use of open source code (like the spaghetti code provided). What are some ethical considerations when using, modifying, or sharing code written by others?
 
