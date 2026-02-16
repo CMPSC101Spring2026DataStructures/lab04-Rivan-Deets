@@ -50,7 +50,7 @@ Your Response:
 
 Your Response:
 
-TODO
+- the best ethical considerations are to atleast label what you have so its not as confusing for other people to review and have lines and code on the proper lines so code isnt just everywhere and if your going to use someone elses code its best to give them credit for it aswell.if you modify the code make a copy of it instead of changing the main file first 
 
 ---
 
