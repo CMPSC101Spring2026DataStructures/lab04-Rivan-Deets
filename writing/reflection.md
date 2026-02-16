@@ -30,7 +30,7 @@ Your Response:
 
 Your Response:
 
-- 
+- the computers move is completly random and gives a random anser each time
 
 5. What was the most challenging part of refactoring the spaghetti code into a more structured program? How did you overcome this challenge?
 
