@@ -44,7 +44,7 @@ Your Response:
 
 Your Response:
 
-its important to write code thats easy to read so 1 you can look back at it and understand what it does 2 so other people can use the parts of your code without getting confused. its a responsibilliy that 
+- its important to write code thats easy to read so 1 you can look back at it and understand what it does 2 so other people can use the parts of your code without getting confused. its a responsibilliy that is something you should do so people know you now what your doing
 
 2. Consider the use of open source code (like the spaghetti code provided). What are some ethical considerations when using, modifying, or sharing code written by others?
 
